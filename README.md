@@ -89,9 +89,15 @@ Training Details
 
 ---
 
-## Example output:
+## Output:
 ```bash
 Episode 2400, Avg Reward: 129.88, Epsilon: 0.09
+
+Episode 1 Reward: 240.10743291296916
+Episode 2 Reward: 246.03374685696483
+Episode 3 Reward: 120.2279850943359
+Episode 4 Reward: 281.4993702231069
+Episode 5 Reward: 147.37552667774162
 ```
 
 ---
